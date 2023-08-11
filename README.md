@@ -1,4 +1,4 @@
-# Hailee portfolio webpage
+# Faldi portfolio webpage
 
 A portfolio web site completely made in html css and js from ground up.
 
@@ -12,8 +12,8 @@ A portfolio web site completely made in html css and js from ground up.
 
 ### In dark mode
 
-![In dark mode](./preview/hailee-dark.png)
+![In dark mode](./preview/Faldi-dark.png)
 
 ### In light mode
 
-![In light mode](./preview/hailee-light.png)
+![In light mode](./preview/Faldi-light.png)
