@@ -12,8 +12,8 @@ A portfolio web site completely made in html css and js from ground up.
 
 ### In dark mode
 
-![In dark mode](./preview/Faldi-dark.png)
+![In dark mode](./preview/Faldi-Dark.png)
 
 ### In light mode
 
-![In light mode](./preview/Faldi-light.png)
+![In light mode](./preview/Faldi-Light.png)
